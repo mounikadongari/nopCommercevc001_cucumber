@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/java/PageObjects/AddCustomersPage.java=ISO-8859-1
+encoding//src/test/java/PageObjects/LoginPage.java=ISO-8859-1
+encoding//src/test/java/PageObjects/SearchCustomerPage.java=ISO-8859-1
+encoding//src/test/java/Utilities/WaitHelper.java=ISO-8859-1
+encoding//src/test/java/stepDefinations/BaseClass.java=ISO-8859-1
+encoding//src/test/java/stepDefinations/steps.java=ISO-8859-1
+encoding/<project>=UTF-8
